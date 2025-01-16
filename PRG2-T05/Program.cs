@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("hello from rphl");
+
+            Console.WriteLine("hello from yeawmin")
         }
     }
 }
